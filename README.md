@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF16TW4w78Mug/profile-displaybackgroundimage-shrink_350_1400/0/1661528605780?e=1671062400&v=beta&t=bSAiyqnllND6Ytq4jnRAl-WaBGyknsLNjNhUU_QaIDo)
 <h1 align="center">Hi 👋, I'm Sowham Bhuin</h1>
 <h3 align="center">A passionate competitive programmer & newbie developer from India..</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
