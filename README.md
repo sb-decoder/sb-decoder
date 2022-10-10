@@ -70,9 +70,9 @@ alt="Kotlin" width="40" "/> </a>
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-decoder&" alt="sb-decoder" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sb-decodershow_icons=true&locale=en" alt="sb-decoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sb-decoder&show_icons=true&locale=en" alt="sb-decoder" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb-decodershow_icons=true&locale=en&layout=compact" alt="sb-decoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb-decoder&show_icons=true&locale=en&layout=compact" alt="sb-decoder" /></p>
 <br>
 
 
