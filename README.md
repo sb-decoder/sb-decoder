@@ -77,6 +77,12 @@ alt="Kotlin" width="40" "/> </a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sb-decoder" alt="sb-decoder" /></a> </p>
+<br>
+<p align="left">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img align="mid" alt="Sowham's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=sb-decoder&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
+</a>
+</p>
 
 
 ### ✍️ Random Dev Quote
