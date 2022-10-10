@@ -66,23 +66,17 @@ alt="Kotlin" width="40" "/> </a>
 
 
 
-# 📊 GitHub Stats:
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-decoder&" alt="sb-decoder" /></p>
+# Github Stats:
+
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=sb-decoder&count_private=true&show_icons=true&theme=react" />
+
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-decoder&theme=react" />
+
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=sb-decoder&theme=react-dark" />
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sb-decoder&show_icons=true&locale=en" alt="sb-decoder" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sb-decoder&show_icons=true&locale=en&layout=compact" alt="sb-decoder" /></p>
-<br>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sb-decoder" alt="sb-decoder" /></a> </p>
-<br>
-<p align="left">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img align="mid" alt="Sowham's github activity graph" src="https://activity-graph.herokuapp.com/graph?username=sb-decoder&theme=gotham&line=0ddf88&point=7bedbe&area=true" />
-</a>
-</p>
+<img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=sb-decoder&theme=react&layout=compact" />
 
 
 ### ✍️ Random Dev Quote
