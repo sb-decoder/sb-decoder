@@ -50,7 +50,6 @@ alt="Kotlin" width="40" "/> </a>
 
 </p>
 
-
 # 💻 Coding Platforms:
 <p align="left">
 <a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sb_decoder" height="30" width="40" /></a>&nbsp
@@ -64,19 +63,39 @@ alt="Kotlin" width="40" "/> </a>
 </p>
 
 
-
-
-# Github Stats:
-
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=sb-decoder&count_private=true&show_icons=true&theme=react" />
-
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-decoder&theme=react" />
+# ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/sb-decoder">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sb-decoder&theme=react" />
+  <br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sb-decoder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sb-decoder&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=sb-decoder&theme=react-dark" />
 
 
 
-<img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=sb-decoder&theme=react&layout=compact" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### ✍️ Random Dev Quote
