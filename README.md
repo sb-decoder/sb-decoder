@@ -52,12 +52,11 @@ alt="Kotlin" width="40" "/> </a>
 
 # 💻 Coding Platforms:
 <p align="left">
-<a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sb_decoder" height="30" width="40" /></a>&nbsp
-<a href="https://www.hackerrank.com/sowham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sowham18" height="30" width="40" /></a>&nbsp
-<a href="https://codeforces.com/profile/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sb_decoder" height="30" width="40" /></a>&nbsp
-<a href="https://www.leetcode.com/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sb_decoder" height="30" width="40" /></a>&nbsp
-<a href="https://www.hackerearth.com/@sowhambhuin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sowhambhuin" height="30" width="40" /></a>&nbsp
-<a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sowham18" height="30" width="40" /></a>&nbsp
+<a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://www.hackerrank.com/sb_decoder?hr_r=1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
+<a href="https://codeforces.com/profile/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://www.leetcode.com/sb_decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
+<a href="https://auth.geeksforgeeks.org/user/sowham18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://atcoder.jp/users/sb_decoder" target="blank"><img align="center" src="https://img.atcoder.jp/assets/atcoder.png" alt="sowham18" height="40" width="40" /></a>&nbsp
 <a href="https://www.codingninjas.com/codestudio/profile/7c9cdec9-7f01-467b-9f53-3f93d071f24b" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgc1xfS5LK7FayIDccjkLFNYUrvJJMAj4DVZzEzybMqVcjz8M3LRCLG-61f-c08icMLd0&usqp=CAU" alt="sowham18" height="40" width="50" /></a>
 </p>
