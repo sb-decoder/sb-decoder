@@ -1,8 +1,10 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF16TW4w78Mug/profile-displaybackgroundimage-shrink_350_1400/0/1661528605780?e=1671062400&v=beta&t=bSAiyqnllND6Ytq4jnRAl-WaBGyknsLNjNhUU_QaIDo)
-<h1 align="center">Hi 👋, I'm Sowham Bhuin</h1>
-<h3 align="center">A passionate competitive programmer & newbie developer from India..</h3>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Sowham Bhuin </h1> 
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Competitive+Programmer;Web+Developer;Android+Developer;Graphic+Designer;Open+Source+Contributor&color=teal&center=true" />
+</div>
 <h3 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h3>
-<img align="right"  alt="Coding" width="400" src="https://tekyul.com/wp-content/uploads/2022/04/earth.gif"
+<img align="right"  alt="Coding" width="500" src="https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowham-3098&label=Profile%20views&color=0e75b6&style=flat" alt="sowham-3098" /> </p>
 
@@ -19,7 +21,7 @@
 
 <br>
 
-## 🌐 Socials:
+## 🌐 Socials:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="left">
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhuinsowham" height="30" width="40" /></a>&nbsp
@@ -50,7 +52,7 @@ alt="Kotlin" width="40" "/> </a>
 
 </p>
 
-## 💻 Coding Platforms:
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Coding Platforms:
 <p align="left">
 <a href="https://www.codechef.com/users/sb_decoder" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="sb_decoder" height="40" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/sb_decoder?hr_r=1" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/118/895/png-transparent-hackerrank-logos-and-brands-line-filled-icon-thumbnail.png" alt="sowham18" height="40" width="40" /></a>&nbsp
@@ -72,7 +74,7 @@ alt="Kotlin" width="40" "/> </a>
 </a>
 </p>
 
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=sb-decoder&theme=react-dark" />
+<img align="center" width="1000"  src="https://activity-graph.herokuapp.com/graph?username=sb-decoder&theme=react-dark" />
 
 
 
@@ -81,7 +83,7 @@ alt="Kotlin" width="40" "/> </a>
 
 
 
-
+## Hacktoberfest 2022
 [![@sbdecoder's Holopin board](https://holopin.me/sbdecoder)](https://holopin.io/@sbdecoder)
 
 
@@ -89,7 +91,7 @@ alt="Kotlin" width="40" "/> </a>
 
 
 
-
+<img width="20%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 
 
 
