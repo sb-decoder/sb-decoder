@@ -12,8 +12,9 @@
 <img align="right"  alt="Coding" width="400" src="https://www.successsensation.com/wp-content/uploads/2021/02/b1.3.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowham-3098&label=Profile%20views&color=0e75b6&style=flat" alt="sowham-3098" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/sowham-bhuin/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Sowham Bhuin" width="150" height="30" /></a> </p>
+<p align="left"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" /> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sowham-bhuin/" target="blank"><img 
+                                                                                    src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Sowham Bhuin" width="150" height="30" /></a> </p>
 
 
 # 💫 About Me:
