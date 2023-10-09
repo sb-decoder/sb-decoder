@@ -94,9 +94,7 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 
 
 
-## Hacktoberfest 2022
-[![@sbdecoder's Holopin board](https://holopin.me/sbdecoder)](https://holopin.io/@sbdecoder)
-
+[![An image of @sbdecoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sbdecoder)](https://holopin.io/@sbdecoder)
 
 
 
