@@ -1,28 +1,23 @@
-
-
-![SB](https://github.com/Sowham-3098/Sowham-3098/assets/95470604/4e14b11c-472d-4979-a9fd-5177660d42be)
-
+<img width="1500" alt="github_header (1)" src="https://github.com/user-attachments/assets/c85ef988-2e3a-4d95-926a-3170f16b0125" />
 
 <h1 align="center">Hi , I'm Sowham Bhuin</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Blockchain+Developer;Graphic+Designer;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Competitive+Programmer;React+Native+Android+Developer;Graphic+Designer;AI+ML+Enthusiast">
 </div >
-<h2 align="center">Student of Jalpaiguri Government Engineering College (Autonomous)..</h2>
 
-<img align="right" alt="Coding" width="350" src="output-onlinegiftools (1).gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sb-decoder&label=Profile%20views&color=0e75b6&style=flat" alt="sb-decoder" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/sowham-bhuin/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Sowham Bhuin" width="150" height="30" /></a> </p>
+
 
 
 # 💫 About Me:
 <!--🔭 I’m Currently leraning Augmented Reality.<br>-->
-<!--🌱 I’m currently exploring Open Source Contribution.<br>-->
-📫 How to reach me: sb2517@it.jgec.ac.in <br>
-😄 Pronouns: He/His<br>
-⚡ Fun fact: Zero Knowledge of Coding before College Admission.
+🌱 I’m currently upskilling.<br>
+📫 How to reach me: sowhambhuin99sb2020@gmail.com <br>
+😄 Pronouns: He/His<br>.
 
 
 # 🌐 Socials :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
@@ -43,7 +38,8 @@
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,c,cpp,html,css,js,git,github,md,mysql,py,react,svelte,latex,firebase,redux,tailwind,ts,tensorflow,unity,vscode,nodejs,npm,postgres,vite,appwrite,anaconda&theme=light)](https://skillicons.dev)
+<!--![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,19 +49,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)-->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)-->
 <!-- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
 
-# 🎨 Desiging Stacks
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-<!--![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)-->
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 
 <!-- 
@@ -115,7 +106,13 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 </p>
 
 
-
+# 🎨 Desiging Stacks
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<!--![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)-->
 
 
 
@@ -133,7 +130,7 @@ alt="Kotlin" width="40" "/> </a> &nbsp
 
 # 🏆Github Profile Trophy
 <p align = "center">
-	<img src = "https://github-profile-trophy.vercel.app/?username=sb-decoder8&theme=gruvbox&column=7" alt = "Github Trophy"/>
+	<img src = "https://github-profile-trophy.vercel.app/?username=sb-decoder&theme=gruvbox&column=7" alt = "Github Trophy"/>
 </p>
 
 
