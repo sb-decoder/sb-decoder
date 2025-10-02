@@ -20,7 +20,7 @@
 😄 Pronouns: He/His<br>.
 
 
-# 🌐 Socials :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<!--# 🌐 Socials :<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <!-- <p align="left">
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="bhuinsowham" height="40" width="40" /></a>&nbsp
