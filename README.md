@@ -28,12 +28,12 @@
 <a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="shutterbug_sowham" height="40" width="40" /></a>&nbsp
 <a href="https://discord.gg/Sowham_18#0265" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Sowham_18#0265" height="40" width="40" /></a>
 </p> -->
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/bhuinsowham" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="bhuinsowham" height="30"  /></a>&nbsp
 <a href="https://linkedin.com/in/sowham bhuin" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sowham bhuin" height="30" /></a>&nbsp
 <a href="https://instagram.com/shutterbug_sowham/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shutterbug_sowham" height="30"  /></a>&nbsp
 <a href="https://discord.gg/MoonKnight#0265" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="MoonKnight#0265" height="30"  /></a>
-</p>
+</p> -->
 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Tech Stack:
